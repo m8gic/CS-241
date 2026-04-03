@@ -1,0 +1,81 @@
+    1  exit
+    2  finger
+    3  ls l
+    4  ls 
+    5  pwd
+    6  mkdir /tmp/tutorial
+    7  cd /tmp/tutorial/
+    8  ls
+    9  pwd
+   10  cd .
+   11  pwd
+   12  cd .. 
+   13  pwd
+   14  cd ..
+   15  pwd
+   16  ls
+   17  cd tmp
+   18  ls
+   19  cd tutorial/
+   20  ls
+   21  pwd
+   22  echo 'this is a test'
+   23  echo 'poopoocaca' > test_1.txt
+   24  ls
+   25  cat test_1.txt 
+   26  exit
+   27  pwd
+   28  cd ..
+   29  ls
+   30  cd mcarmona2/
+   31  ls
+   32  cd m8gic/
+   33  ls
+   34  cd
+   35  cd /.
+   36  cd dow
+   37  cd Downloads
+   38  ls
+   39  pwd
+   40  pwd
+   41  cd
+   42  ls
+   43  cd dow
+   44  cd downloads
+   45  ls
+   46  cd Downloads/
+   47  ls
+   48  cd .
+   49  ls
+   50  cd ..
+   51  ls
+   52  cd Desktop/
+   53  ls
+   54  cd ..
+   55  ls 
+   56  cd Music/
+   57  ls
+   58  exit
+   59  a./out
+   60  history
+   61  esc
+   62  man pwd
+   63  pwd
+   64  mkdir cs1230-s26
+   65  cd cs1230-s26/
+   66  pwd
+   67  mkdir PA1
+   68  cs PA1/
+   69  cd PA1/
+   70  ls
+   71  cp /nfs/faculty/soraya/csci1230-s26/my1stEdit.c .
+   72  ls
+   73  mv my1stEdit.c soraya.c
+   74  ls
+   75  mv soraya.c avery.c
+   76  ls
+   77  vim avery.c 
+   78  gcc -std=c99 avery.c
+   79  ./a.out
+   80  history
+   81  history > myHist.txt

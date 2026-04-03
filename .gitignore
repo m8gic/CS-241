@@ -1,0 +1,30 @@
+# compilegit commit -m "Add initial implementations and files for PA1, PA2, PA3, and PA4
+
+- Created .gitignore to exclude build artifacts and output files.
+- Added Snake game implementation in PA1/SnakeGame/Snake.c.
+- Included basic C program in PA1/avery.c.
+- Recorded command history in PA1/myHist.txt.
+- Added compressed files and new shapes implementations in PA2.
+- Implemented image manipulation functions in PA5/schleicher_a_imageT.c.
+- Added various test programs in RandomStuff directory.
+- Updated .clang-format for consistent code styling."d files
+a.out
+*.out
+*.o
+
+# editor junk
+*.swp
+*.swo
+*.swaps
+*~
+
+# archives
+*.tar.gz
+*.tar
+*.zip
+
+# test/output files (optional)
+Output*
+myOutput*
+*Output
+.txt*
