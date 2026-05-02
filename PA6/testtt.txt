@@ -1,0 +1,15 @@
+a alice
+a bob
+a chad
+d 1
+a abby
+c 2 ed
+a fran
+c 1 bill
+d 0
+o
+s 0 2
+a sam
+a sue
+i
+o
